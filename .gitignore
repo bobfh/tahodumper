@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Application output
+dumps/
+logs/
+*.log
+*.ddd
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
